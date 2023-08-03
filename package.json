@@ -2,7 +2,7 @@
   "name": "megha-jayakumar-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/megha24051994/mj-portfolio",
+  "homepage": "https://megha24051994.github.io/mj-portfolio/",
   "dependencies": {
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.11.2",
